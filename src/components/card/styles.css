@@ -1,0 +1,20 @@
+.card-wraper {
+  box-sizing: border-box;
+  width: 300px;
+  padding: 10px 5px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  overflow: hidden;
+}
+.card-inner-wrapper {
+  overflow: hidden;
+}
+.card-image {
+  width: 100%;
+  transition: 0.2s transform;
+}
+
+.card-image:hover {
+  transform: scale(1.1);
+}
