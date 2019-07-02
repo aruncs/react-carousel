@@ -36,6 +36,7 @@
   "dependencies": {
     "preact": "^8.4.2",
     "preact-compat": "^3.18.5",
+    "querystringify": "^2.0.0",
     "react-router-dom": "^5.0.0"
   }
 }
